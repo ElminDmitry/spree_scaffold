@@ -3,7 +3,7 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.name        = 'spree_scaffold'
   #s.version     = '3.0.0'
-   s.version     = '3.3.0'
+   s.version     = '3.2.0'
   s.summary     = 'Easily integrate your model in Spree admin interface'
   s.description = s.summary
   #s.required_ruby_version = '>= 1.9.3'
